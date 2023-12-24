@@ -1,0 +1,76 @@
+body{
+  background-size: cover;
+  background-image: url(background.jpg);
+  margin-top: 3%;
+}
+
+img{
+text-align: center;
+width: 200px;
+margin-left: 38%;
+margin-bottom: 10px;
+}
+
+h1{
+  color: rgb(0, 225, 0);
+  text-align: center;
+  font-size: 25px;
+}
+
+nav{
+background-color: rgb(0, 225, 0);
+margin-left: 2%;
+margin-right: 2%;
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+}
+
+.name{
+margin-left: 2%;
+margin-top: 10px;
+color:white;
+font-size: larger;
+}
+
+.info{
+  margin-left: 2%;
+  font-size:15px;
+  color: lightgrey;
+}
+
+.power1{
+  margin-left: 2%;
+  margin-right: 60%;
+  color: orange;
+  background-color: orange;
+  border-radius: 10% 10% 10% 10%;
+  padding: 5px;
+}
+
+.power2{
+  margin-left: 2%;
+  margin-right: 20%;
+  color: green;
+  background-color: green;
+  border-radius: 10% 10% 10% 10%;
+  padding: 5px;
+}
+
+.power3{
+  margin-left: 2%;
+  margin-right: 80%;
+  color: red;
+  background-color: red;
+  border-radius: 10% 10% 10% 10%;
+  padding: 5px;
+}
+
+.blacktrasp{
+  background-color:rgba(0,0,0,0.5);
+  margin-left: 20%;
+  margin-right:20%;
+  margin-bottom: 6%;
+  padding: 2%;
+  border-radius: 2% 2% 2% 2%
+}
